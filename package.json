@@ -1,5 +1,5 @@
 {
-  "name": "zendoc",
+  "name": "zendoc-cli",
   "version": "1.0.0",
   "description": "Cli to import zendesk articles from markdown files.",
   "main": "index.js",
