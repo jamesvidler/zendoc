@@ -27,7 +27,7 @@ zendoc --token "xxxxxxxxxxxxxxxxxxxxx" --user  james@xxxxxxxx.com --title "My ar
 
 `--section_id` -> [int] The section_id for the article (required)
 
-`--permission_group_id` -> [int] The permission_group_id for the article, such as the id for *Managers* or *Agents and Managers* (required)
+`--permission_group_id` -> [int] The permission_group_id for the article, i.e. the id for *Managers* or *Agents and Managers* (required)
 
 `--draft` -> [bool] Default is **true**, if set to **false** then the article will be published (optional)
 
