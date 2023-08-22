@@ -1,6 +1,6 @@
 {
   "name": "zendoc-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cli to import zendesk articles from markdown files.",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,7 @@
     "zendoc": "./cli.js"
   },
   "dependencies": {
+    "@changesets/cli": "^2.26.2",
     "cli-color": "^1.4.0",
     "marked": "^0.7.0",
     "request": "^2.88.0",

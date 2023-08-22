@@ -12,7 +12,7 @@ var notice = clc.blue;
 
 //validate required args
 if(!argv.user) {
-    console.error(error('Missing --user argument. This is Zendesk username/email.'));
+    console.error(error('Missing --user argument. This is the Zendesk username/email.'));
     return;
 }
 
